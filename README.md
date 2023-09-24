@@ -93,6 +93,7 @@ You can use the following markdown format to create tables
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formating options. <sup>[3]</sup>
 
+[Secret_Window_Hidden_Garden](secret-window-hidden-garden.md)
 
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
