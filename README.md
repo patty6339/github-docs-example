@@ -1,6 +1,7 @@
 # Writing Good Documentation
 
 Documentations are important as they can help other engineers understand how your app works. 
+
 ## Step 1 - Using Codeblocks.
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code. A good _Cloud Engineer_ uses Codeblocks whenever possible.
@@ -58,6 +59,11 @@ Traceback (most recent call last):
 NameError: name 'undefined_variable' is not defined
 ```
 > Including the programming languages after the first backticks helps to color code your codeblock
+
+## Step 2 - Screenshots
+Use a screen snipping to to screenshot your screen with the code you want to share. Don't take a picture of your screen using your phone. 
+
+Note: when you can, always provide a codeblock instead of a screenshot.
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
