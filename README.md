@@ -75,9 +75,22 @@ Github Flavored Markup (GFM) supports emoji shortcodes. Here are some examples:
 |Cloud |`:cloud:`|:cloud:
 |Cloud with Lightning | `:cloud_with_lightning:` | :cloud_with_lightning:
 
+## Step 5 - how to create a table
+
+You can use the following markdown format to create tables
+
+```md
+| Name | Shortcode | Emoji
+| --- | --- | ---
+|Cloud |`:cloud:`|:cloud:
+|Cloud with Lightning | `:cloud_with_lightning:` | :cloud_with_lightning:
+```
+Github extends the functionality of Markdown tables to provide more alignment and table cell formating options. <sup>[3]</sup>
+
 
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>[2]</sup>
 - [GFM-Emojis Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [GFM- Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[3]</sup>
 
