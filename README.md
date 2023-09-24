@@ -51,4 +51,10 @@ person1.greet()
 
 ![ezgif com-webp-to-jpg](https://github.com/patty6339/github-docs-example/assets/21007127/d3e01af1-b83c-4592-9471-14fa414ab604)
 
+## Adding an error codeblock to the markdown file ##
+```bash
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+NameError: name 'undefined_variable' is not defined
+```
 
