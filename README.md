@@ -73,6 +73,7 @@ Github Flavored Markup (GFM) supports emoji shortcodes. Here are some examples:
 | Name | Shortcode | Emoji
 | --- | --- | ---
 |Cloud |`:cloud:`|:cloud:
+|Cloud with Lightning | `:cloud_with_lightning:` | :cloud_with_lightning:
 
 
 ## References
